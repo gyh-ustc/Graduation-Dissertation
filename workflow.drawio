@@ -82,16 +82,16 @@
         <mxCell id="tDIDb_yfITlbm5kSbHgY-18" value="$$ (\sigma_0,\sigma_1,\hat{y}) $$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="264.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tDIDb_yfITlbm5kSbHgY-21" value="$$ \mathcal{L}_{peer} = \mathcal{L}(f(x_j),\hat{y_k}) $$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tDIDb_yfITlbm5kSbHgY-21" value="$$ \mathcal{L}_{peer} = \mathcal{L}(P(x_j),\hat{y_k}) $$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="468" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tDIDb_yfITlbm5kSbHgY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDIDb_yfITlbm5kSbHgY-23" target="tDIDb_yfITlbm5kSbHgY-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tDIDb_yfITlbm5kSbHgY-23" value="$$\mathcal{L}=(x_i,\hat{y_i})$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="322.95" y="402.5" width="77.05" height="30" as="geometry" />
+        <mxCell id="tDIDb_yfITlbm5kSbHgY-23" value="$$\mathcal{L}=(P(x_i),\hat{y_i})$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322.95" y="402.5" width="97.05" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tDIDb_yfITlbm5kSbHgY-25" value="$$\mathcal{L}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tDIDb_yfITlbm5kSbHgY-25" value="$$\mathcal{L}_{traing}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="435" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tDIDb_yfITlbm5kSbHgY-28" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
@@ -106,9 +106,6 @@
         <mxCell id="DZ7SHx9tYYM5MVXy4MF7-2" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="186.11" y="420" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tDIDb_yfITlbm5kSbHgY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDIDb_yfITlbm5kSbHgY-36" target="tDIDb_yfITlbm5kSbHgY-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tDIDb_yfITlbm5kSbHgY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270.1100000000001" y="450" as="sourcePoint" />
@@ -118,6 +115,9 @@
               <mxPoint x="294" y="483" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tDIDb_yfITlbm5kSbHgY-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDIDb_yfITlbm5kSbHgY-36" target="tDIDb_yfITlbm5kSbHgY-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tDIDb_yfITlbm5kSbHgY-36" value="$$ P $$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="206.11" y="435" width="60" height="30" as="geometry" />
