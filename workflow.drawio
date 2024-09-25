@@ -122,7 +122,7 @@
         <mxCell id="tDIDb_yfITlbm5kSbHgY-36" value="$$ P $$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="206.11" y="435" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tDIDb_yfITlbm5kSbHgY-37" value="Confidence error and time smoothing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tDIDb_yfITlbm5kSbHgY-37" value="Confidence error and time smoothing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="445" y="391.25" width="100" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="tDIDb_yfITlbm5kSbHgY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tDIDb_yfITlbm5kSbHgY-37" target="tDIDb_yfITlbm5kSbHgY-28">
