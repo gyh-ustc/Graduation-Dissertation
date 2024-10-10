@@ -230,7 +230,7 @@
         <mxCell id="QYkJ3RWpoIwX3LJxbAVo-203" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="662" y="365" width="20" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="QYkJ3RWpoIwX3LJxbAVo-204" value="$$\mathcal{L}_{traing}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+        <mxCell id="QYkJ3RWpoIwX3LJxbAVo-204" value="$$\mathcal{L}_{train}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="688" y="383" width="33.23076923076923" height="22.54335260115607" as="geometry" />
         </mxCell>
         <mxCell id="QYkJ3RWpoIwX3LJxbAVo-208" value="" style="endArrow=block;html=1;rounded=0;shape=flexArrow;startSize=4;endSize=6.108333333333333;endFill=0;startArrow=none;startFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;fillColor=#f8cecc;strokeColor=#b85450;endWidth=13.333333333333334;width=8;" edge="1" parent="1">
