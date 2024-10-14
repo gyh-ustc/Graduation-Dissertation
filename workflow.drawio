@@ -233,7 +233,7 @@
         <mxCell id="QYkJ3RWpoIwX3LJxbAVo-204" value="$$\mathcal{L}_{train}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="688" y="383" width="33.23076923076923" height="22.54335260115607" as="geometry" />
         </mxCell>
-        <mxCell id="QYkJ3RWpoIwX3LJxbAVo-208" value="" style="endArrow=block;html=1;rounded=0;shape=flexArrow;startSize=4;endSize=6.108333333333333;endFill=0;startArrow=none;startFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;fillColor=#f8cecc;strokeColor=#b85450;endWidth=13.333333333333334;width=6;dashed=1;" parent="1" edge="1">
+        <mxCell id="QYkJ3RWpoIwX3LJxbAVo-208" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;fillColor=#f8cecc;strokeColor=#FC746E;endWidth=13.333333333333334;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="705" y="413" as="sourcePoint" />
             <mxPoint x="399" y="432" as="targetPoint" />
