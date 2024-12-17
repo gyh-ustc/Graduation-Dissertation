@@ -127,7 +127,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JNPPwmofQOj1YzRK5fSh-48" value="内在相似性LOSS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="333.5" width="70" height="26.5" as="geometry" />
+          <mxGeometry x="580" y="333" width="70" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JNPPwmofQOj1YzRK5fSh-51" value="结构相似性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
