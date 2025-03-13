@@ -34,19 +34,19 @@
         <mxCell id="t1eVf3aolJbmQsEFquW4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1eVf3aolJbmQsEFquW4-6" target="t1eVf3aolJbmQsEFquW4-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t1eVf3aolJbmQsEFquW4-6" value="研究偏好强化学习能解决强化学习奖励函数建立困难的问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="t1eVf3aolJbmQsEFquW4-6" value="强化学习奖励函数建模困难" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t1eVf3aolJbmQsEFquW4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1eVf3aolJbmQsEFquW4-7" target="t1eVf3aolJbmQsEFquW4-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t1eVf3aolJbmQsEFquW4-7" value="偏好强化学习人类标注数据需求大" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="t1eVf3aolJbmQsEFquW4-7" value="偏好强化学习可以解决奖励函数建模问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t1eVf3aolJbmQsEFquW4-8" value="扩大应用面会引入低质量数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="t1eVf3aolJbmQsEFquW4-8" value="对数据需求较高" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t1eVf3aolJbmQsEFquW4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="t1eVf3aolJbmQsEFquW4-10" value="数据集情况复杂，先验分布混乱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="350" y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t1eVf3aolJbmQsEFquW4-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="t1eVf3aolJbmQsEFquW4-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="350" y="300" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t1eVf3aolJbmQsEFquW4-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="t1eVf3aolJbmQsEFquW4-14" value="结合监督学习思想：添加置信度等" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t1eVf3aolJbmQsEFquW4-16" value="基于置信度计算的偏好强化学习方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -64,8 +64,17 @@
         <mxCell id="t1eVf3aolJbmQsEFquW4-19" value="基于隐空间限制的偏好强化学习方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="800" y="240" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t1eVf3aolJbmQsEFquW4-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="t1eVf3aolJbmQsEFquW4-22" value="结合自监督学习思想：设计隐空间损失函数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t1eVf3aolJbmQsEFquW4-28" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.47058919270833144;arrowSize=0.46617575252757176;strokeColor=light-dark(#000000, #005171);" vertex="1" parent="1">
+          <mxGeometry x="295" y="210" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1eVf3aolJbmQsEFquW4-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.47058919270833144;arrowSize=0.46617575252757176;" vertex="1" parent="1">
+          <mxGeometry x="507" y="210" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1eVf3aolJbmQsEFquW4-30" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.47058919270833144;arrowSize=0.46617575252757176;" vertex="1" parent="1">
+          <mxGeometry x="728" y="210" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
