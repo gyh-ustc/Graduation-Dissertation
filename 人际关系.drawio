@@ -10,7 +10,7 @@
         <mxCell id="o-w49enw5CKkFs7Kxk6n-2" value="人工智能" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-w49enw5CKkFs7Kxk6n-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;gradientColor=light-dark(#DFF4FF,#00404B);gradientDirection=north;" vertex="1" parent="1">
+        <mxCell id="o-w49enw5CKkFs7Kxk6n-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;gradientColor=light-dark(#e1f5ff, #00404B);gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="150" y="170" width="550" height="240" as="geometry" />
         </mxCell>
       </root>
