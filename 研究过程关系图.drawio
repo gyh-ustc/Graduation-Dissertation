@@ -46,13 +46,13 @@
         <mxCell id="t1eVf3aolJbmQsEFquW4-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据集难以同时保证数量和质量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="140" y="300" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t1eVf3aolJbmQsEFquW4-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据集噪声先验分布混乱&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="t1eVf3aolJbmQsEFquW4-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据集噪声&lt;br&gt;不确定性大&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="350" y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t1eVf3aolJbmQsEFquW4-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;训练过程波动大&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="350" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t1eVf3aolJbmQsEFquW4-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;训练速度受影响而降低&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="t1eVf3aolJbmQsEFquW4-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;难以收敛到最优解&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="350" y="300" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t1eVf3aolJbmQsEFquW4-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;监督学习&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
