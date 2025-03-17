@@ -17,10 +17,10 @@
         <mxCell id="3KW4BId67RAqC139ysHB-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;智能体&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="413.25" y="74" width="86.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3KW4BId67RAqC139ysHB-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;状态&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;$$S_t$$&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="230" width="60" height="30" as="geometry" />
+        <mxCell id="3KW4BId67RAqC139ysHB-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;状态&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;$$s_t$$&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="231" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3KW4BId67RAqC139ysHB-9" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;奖励&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;div&gt;$$R_t$$&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3KW4BId67RAqC139ysHB-9" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;奖励&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;div&gt;$$r_t$$&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3KW4BId67RAqC139ysHB-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="3KW4BId67RAqC139ysHB-19" edge="1">
@@ -33,7 +33,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3KW4BId67RAqC139ysHB-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;动作&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;$$A_t$$&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3KW4BId67RAqC139ysHB-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;动作&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;$$a_t$$&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3KW4BId67RAqC139ysHB-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;环境&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
