@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="d5E2aU0CMnKmPMb9tsrx">
     <mxGraphModel dx="1050" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="t1eVf3aolJbmQsEFquW4-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;监督学习策略&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="120" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t1eVf3aolJbmQsEFquW4-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基于置信度计算的偏好强化学习方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="t1eVf3aolJbmQsEFquW4-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基于置信度感知的偏好强化学习方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="800" y="120" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t1eVf3aolJbmQsEFquW4-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基于隐空间限制的偏好强化学习方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
